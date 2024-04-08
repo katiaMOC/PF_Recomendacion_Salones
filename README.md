@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/beautyc.png"  height=400>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/beautyc.png"  height=400>
 </p>
 
 
@@ -93,7 +93,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Diagrama de Gantt
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/Diagrama_Gantt.png"  height=400>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/Diagrama_Gantt.png"  height=400>
 </p>
 
 <br>[Volver al Índice](#Índice)
@@ -129,7 +129,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Diagrama Entidad Relación
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/modelo_ER.jpg"  height=800>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/modelo_ER.jpg"  height=800>
 </p>
 
 
@@ -140,7 +140,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Diagrama ETL
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/ETL.jpg"  height=400>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/ETL.jpg"  height=400>
 </p>
 
 
@@ -158,7 +158,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Esquema de Carga Incremental
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/EsquemaCargaIncremental.png"  height=300>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/EsquemaCargaIncremental.png"  height=300>
 </p>
 
 
@@ -178,21 +178,21 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Dashboard
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/Dashboard.png"  height=300>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/Dashboard.png"  height=300>
 </p>
 
 ## Kpis
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi1.png"  height=100>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/kpi1.png"  height=100>
 </p>
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi2.png"  height=100>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/kpi2.png"  height=100>
 </p>
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi3.png"  height=100>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/kpi3.png"  height=100>
 </p>
 
 <br>
@@ -206,7 +206,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 
 <br>[Volver al Índice](#Índice)
-# [Machine Learning](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Machine%20Learning)
+# [Machine Learning](https://github.com/katiaMOC/PF_Recomendacion_Salones/tree/main/Machine%20Learning)
 
 El núcleo del sistema se basó en 2 etapas:
 
@@ -219,7 +219,7 @@ En esta etapa a partir de un correo electrónico se generó una recomendación d
 Esta parte del algoritmo se basó en un algoritmo de similitud de los cosenos, cuya matriz se generó a partir de las categorias cat_elite, cat_limpieza, cat_ambiente, cat_promociones, cat_extra y cat_interaccion. Que a su vez fueron geneneradas de buscar la similitud de una lista de palabras para cada categoría, respecto a los reviews de los usuarios.
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/diagramaSC.png"  height=200>
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/diagramaSC.png"  height=200>
 </p>
 
 
@@ -251,6 +251,9 @@ Funciona ingresando un correo electrónico con una sintaxis válida, en caso de 
 # [Diapositivas-Láminas del Proyecto](https://docs.google.com/presentation/d/1DximOxcaPS7WU5JpOEQaskkp2wCvOX-rGs5s_ERTPAQ/edit?usp=sharing)
 
 
+<p align="center">
+<img src="https://github.com/katiaMOC/PF_Recomendacion_Salones/blob/main/images/roles.jpg"  height=200>
+</p>
 
 # Roles 
 * Lider del Proyecto: [José R. Guignan](https://www.linkedin.com/in/jrguignan). 
